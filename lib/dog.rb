@@ -8,4 +8,7 @@ class Dog
     @pupper
   end
   
-  
+  def bark
+    puts "woof!"
+  end
+end
